@@ -65,7 +65,7 @@ export default function Hero() {
         >
            Turning Data Into <br />
 
-          <span className="bg-gradient-to-r font-bold text-sky-800 bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r font-bold text-sky-800">
              Strategic Advantage
           </span>
 
